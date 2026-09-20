@@ -40,9 +40,10 @@ min_distance = √dist_squared
 
 Блок-схема
 
-<img width="262" height="852" alt="Блок схема drawio (1)" src="https://github.com/user-attachments/assets/c2dd1307-b2a6-499f-9df3-609c148e3f7d" />
+<img width="262" height="832" alt="Блок схема" src="https://github.com/user-attachments/assets/9fbb1075-67df-49ad-b403-7402cb1e1d3e" />
 
-https://drive.google.com/drive/u/0/home
+
+https://drive.google.com/file/d/1vKki6FyPjy6YZV5StpxPT6eporW5v8BD/view?usp=sharing
  
 ## 2. Реализация программы
 
